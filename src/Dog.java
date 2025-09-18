@@ -1,6 +1,6 @@
 public class Dog extends Animal{
 
-    public Dog(boolean improve, String name) {
+    public Dog(String name) {
         super(name);
     }
 
