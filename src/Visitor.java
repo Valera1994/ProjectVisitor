@@ -1,3 +1,4 @@
 public interface Visitor {
-    void visit(Animal animal);
+    void visit(Cat cat);
+    void visit(Dog dog);
 }

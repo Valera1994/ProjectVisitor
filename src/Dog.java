@@ -1,7 +1,7 @@
 public class Dog extends Animal{
 
     public Dog(boolean improve, String name) {
-        super(improve, name);
+        super(name);
     }
 
     public void accept(Visitor visitor) {
